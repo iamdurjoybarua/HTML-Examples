@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+</head>
+<body>
+
+    <h1>Contact Us</h1>
+
+    <form action="/submit-form" method="post">
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name" required><br><br>
+        
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+        
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message" rows="5" cols="40"></textarea><br><br>
+        
+        <label for="country">Country:</label><br>
+        <select id="country" name="country">
+            <option value="usa">USA</option>
+            <option value="canada">Canada</option>
+            <option value="uk">UK</option>
+            <option value="australia">Australia</option>
+        </select><br><br>
+
+        <label>
+            <input type="checkbox" id="subscribe" name="subscribe" value="yes">
+            Subscribe to our newsletter
+        </label><br><br>
+
+        <input type="submit" value="Send Message">
+    </form>
+
+</body>
+</html>
