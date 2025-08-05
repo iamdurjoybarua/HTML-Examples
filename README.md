@@ -55,6 +55,7 @@ This file, `semantic-layout.html`, showcases the power of HTML5 semantic tags to
 3.  **Open the files:**
     Simply open any of the `.html` files in your web browser (e.g., by double-clicking on the file) to see the live rendering of the code.
 
+---
 
 # Author
 
