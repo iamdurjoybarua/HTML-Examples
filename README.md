@@ -24,6 +24,13 @@ This repository contains a variety of HTML files, each demonstrating a different
 * **Images with Captions:** A semantic approach to displaying images and their descriptions using the `<figure>` and `<figcaption>` tags for better document structure and accessibility.
 * **Embedding External Content:** Demonstrates how to use an `<iframe>` to embed content from external sources, such as Google Maps or YouTube videos, directly into your page.
 
+#### **3. Semantic & Advanced Text Elements**
+* **Semantic Text Formatting:** Examples of tags like `<code>`, `<pre>`, `<samp>`, and `<kbd>` for properly formatting code, program output, and keyboard input.
+* **Quotations and Abbreviations:** Learn to use `<blockquote>` for block quotes, `<q>` for inline quotes, and `<abbr>` with the `title` attribute for defining abbreviations.
+* **Description Lists:** An example using the `<dl>`, `<dt>`, and `<dd>` tags to create a glossary or a list of key-value pairs.
+* **Buttons vs. Links:** Clarifies the difference between `<button>` for in-page actions and `<a>` for navigation, a crucial concept for user interaction.
+* **Classes and IDs:** A basic introduction to using the `class` and `id` attributes, the fundamental building blocks for styling with CSS and manipulating with JavaScript.
+
 ---
 
 ### **How to Use**
@@ -41,8 +48,8 @@ This repository contains a variety of HTML files, each demonstrating a different
 
 ---
 
-# Author
+## Author
 
 Durjoy Barua / https://github.com/iamdurjoybarua
 
-Feel free to use these examples as a foundation for your own projects and to experiment with the code!
+Feel free to use these examples as a foundation for your own projects and to experiment with the code! 
